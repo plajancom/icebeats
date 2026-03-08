@@ -1,0 +1,11 @@
+<IfModule mod_headers.c>
+  Header always set Access-Control-Allow-Origin "*"
+  Header always set Access-Control-Allow-Methods "POST, GET, OPTIONS"
+  Header always set Access-Control-Allow-Headers "Content-Type, X-API-Key, Range"
+  Header always set Access-Control-Expose-Headers "Accept-Ranges, Content-Range, Content-Length"
+</IfModule>
+
+# Svara 204 på OPTIONS utan att tvinga omvägar
+RewriteEngine On
+RewriteCond %{REQUEST_METHOD} OPTIONS
+RewriteRule ^(.*)$ $1 [R=204,L]
