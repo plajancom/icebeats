@@ -1,0 +1,6 @@
+AuthName "IceJockey Audio Admin"
+AuthGroupFile /dev/null
+AuthType Basic
+AuthUserFile /home/icejockey/domains/audio.icejockey.app/.htpasswd/public_html/admin/.htpasswd
+require valid-user
+ErrorDocument 401 "Unauthorized Access"
