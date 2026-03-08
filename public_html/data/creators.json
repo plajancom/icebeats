@@ -1,0 +1,19 @@
+{
+    "legendai": {
+        "slug": "legendai",
+        "name": "Legendai",
+        "bio_sv": "Legendai skapar musik i gränslandet mellan elektronisk energi och filmisk stämning. Med starka melodier, pulserande rytmer och atmosfäriska lager bygger Legendai låtar som känns både episka och personliga.\r\n\r\nMusiken rör sig mellan kraftfull EDM, emotionella soundtracks och moderna popinfluenser – alltid med fokus på känsla, dynamik och en tydlig identitet.",
+        "bio_en": "Legendai creates music at the intersection of electronic energy and cinematic atmosphere. With strong melodies, pulsing rhythms and layered soundscapes, Legendai builds songs that feel both epic and deeply personal.\r\n\r\nThe music moves between powerful EDM, emotional soundtracks and modern pop influences – always driven by feeling, dynamics and a clear artistic identity.",
+        "image": "/uploads/creator_profiles/legendai-20260307-104732-63f851e1.webp",
+        "links": {
+            "website": "https://legendai.io",
+            "instagram": "https://instagram.com/legendai",
+            "spotify": "https://open.spotify.com/legendai"
+        },
+        "verified": true,
+        "owner_email": "fredrik@pedesign.se",
+        "claimed_at": 1772871864,
+        "updated_at": 1772888112,
+        "created_at": 1772871597
+    }
+}

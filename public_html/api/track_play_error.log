@@ -1,0 +1,8 @@
+[2026-02-26T13:29:28+01:00] #20260226-132928-121c8d5fa60f SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ip' in 'INSERT INTO' @ /home/icejockey/domains/audio.icejockey.app/public_html/api/track_play.php:89
+[2026-02-26T13:30:03+01:00] #20260226-133003-f4eda971c081 SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ip' in 'INSERT INTO' @ /home/icejockey/domains/audio.icejockey.app/public_html/api/track_play.php:89
+[2026-03-06T07:58:47+01:00] #20260306-075847-49bec39e86d4 Call to undefined function ij_abs() @ /home/icejockey/domains/icebeats.io/public_html/api/track_play.php:55
+[2026-03-06T07:59:31+01:00] #20260306-075931-c202f5d8599a Call to undefined function ij_abs() @ /home/icejockey/domains/icebeats.io/public_html/api/track_play.php:55
+[2026-03-06T08:07:36+01:00] #20260306-080736-d1fcff02014a Call to undefined function ij_abs() @ /home/icejockey/domains/icebeats.io/public_html/api/track_play.php:55
+[2026-03-06T08:13:34+01:00] #20260306-081334-9b755411a4f0 Call to undefined function ij_abs() @ /home/icejockey/domains/icebeats.io/public_html/api/track_play.php:55
+[2026-03-06T08:21:16+01:00] #20260306-082116-b8e4d301e800 Call to undefined function ij_abs() @ /home/icejockey/domains/icebeats.io/public_html/api/track_play.php:55
+[2026-03-06T08:33:01+01:00] #20260306-083301-01722629b51f Call to undefined function ij_abs() @ /home/icejockey/domains/icebeats.io/public_html/api/track_play.php:55

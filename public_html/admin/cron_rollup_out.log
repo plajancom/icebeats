@@ -1,0 +1,847 @@
+ok: processed 1 rows, advanced to id=4
+ok: processed 1 rows, advanced to id=5
+ok: processed 4 rows, advanced to id=9
+ok: nothing new
+ok: processed 3 rows, advanced to id=12
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=13
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=15
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=17
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=18
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=20
+ok: processed 7 rows, advanced to id=27
+ok: processed 7 rows, advanced to id=34
+ok: processed 4 rows, advanced to id=38
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=39
+ok: nothing new
+PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/icejockey/domains/audio.icejockey.app/public_html/admin/cron_rollup.php on line 14
+ok: processed 1 rows, advanced to id=40
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 4 rows, advanced to id=44
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=46
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=47
+ok: processed 4 rows, advanced to id=51
+ok: processed 7 rows, advanced to id=58
+ok: processed 5 rows, advanced to id=63
+ok: processed 2 rows, advanced to id=65
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=66
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=68
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=70
+ok: processed 1 rows, advanced to id=71
+ok: processed 2 rows, advanced to id=73
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=74
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=75
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=76
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=77
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=78
+ok: processed 2 rows, advanced to id=80
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=81
+ok: processed 1 rows, advanced to id=82
+ok: processed 2 rows, advanced to id=84
+ok: processed 6 rows, advanced to id=90
+ok: processed 1 rows, advanced to id=91
+ok: nothing new
+ok: processed 4 rows, advanced to id=95
+ok: processed 4 rows, advanced to id=99
+ok: processed 1 rows, advanced to id=100
+ok: processed 4 rows, advanced to id=104
+ok: processed 6 rows, advanced to id=110
+ok: nothing new
+ok: processed 2 rows, advanced to id=112
+ok: nothing new
+ok: processed 1 rows, advanced to id=113
+ok: processed 2 rows, advanced to id=115
+ok: processed 2 rows, advanced to id=117
+ok: nothing new
+ok: processed 2 rows, advanced to id=119
+ok: processed 4 rows, advanced to id=123
+ok: processed 5 rows, advanced to id=128
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=130
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 3 rows, advanced to id=133
+ok: processed 3 rows, advanced to id=136
+ok: processed 3 rows, advanced to id=139
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=141
+ok: processed 3 rows, advanced to id=144
+ok: processed 4 rows, advanced to id=148
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=150
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=151
+ok: processed 2 rows, advanced to id=153
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 3 rows, advanced to id=156
+ok: processed 1 rows, advanced to id=157
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=159
+ok: processed 2 rows, advanced to id=161
+ok: processed 2 rows, advanced to id=163
+ok: processed 4 rows, advanced to id=167
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=168
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=170
+ok: processed 1 rows, advanced to id=171
+ok: nothing new
+ok: nothing new
+ok: nothing new
+PHP Warning:  require_once(/home/icejockey/domains/icebeats.io/public_html/config.php): Failed to open stream: No such file or directory in /home/icejockey/domains/icebeats.io/public_html/admin/lib.php on line 7
+PHP Fatal error:  Uncaught Error: Failed opening required '/home/icejockey/domains/icebeats.io/public_html/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/icejockey/domains/icebeats.io/public_html/admin/lib.php:7
+Stack trace:
+#0 /home/icejockey/domains/icebeats.io/public_html/admin/cron_rollup.php(25): require()
+#1 {main}
+  thrown in /home/icejockey/domains/icebeats.io/public_html/admin/lib.php on line 7
+ok: processed 2 rows, advanced to id=243
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=244
+ok: processed 2 rows, advanced to id=246
+ok: nothing new
+ok: processed 5 rows, advanced to id=251
+ok: processed 1 rows, advanced to id=252
+ok: nothing new
+ok: nothing new
+ok: processed 3 rows, advanced to id=255
+ok: processed 1 rows, advanced to id=256
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=257
+ok: nothing new
+ok: processed 2 rows, advanced to id=259
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=261
+ok: processed 4 rows, advanced to id=265
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=267
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=268
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=269
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=270
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 4 rows, advanced to id=274
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=275
+ok: nothing new
+ok: processed 1 rows, advanced to id=276
+ok: nothing new
+ok: nothing new
+ok: processed 3 rows, advanced to id=279
+ok: processed 6 rows, advanced to id=285
+ok: processed 3 rows, advanced to id=288
+ok: processed 3 rows, advanced to id=291
+ok: processed 4 rows, advanced to id=295
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=297
+ok: nothing new
+ok: nothing new
+ok: processed 1 rows, advanced to id=298
+ok: processed 1 rows, advanced to id=299
+ok: processed 3 rows, advanced to id=302
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=304
+ok: processed 1 rows, advanced to id=305
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 11 rows, advanced to id=316
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=318
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=320
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: nothing new
+ok: processed 2 rows, advanced to id=322
+ok: processed 3 rows, advanced to id=325
