@@ -1,0 +1,64 @@
+Options -Indexes
+
+<IfModule mod_headers.c>
+  # ------------------------------------------------------------
+  # CORS: allow only our app origins (prod + dev)
+  # ------------------------------------------------------------
+  SetEnvIfNoCase Origin "^https?://(icejockey\.app|www\.icejockey\.app|localhost(:[0-9]+)?|127\.0\.0\.1(:[0-9]+)?)$" ORIGIN_ALLOWED=$0
+
+  # Reflect Origin only when allowed (prevents "multiple origins" issues)
+  Header always set Access-Control-Allow-Origin "%{ORIGIN_ALLOWED}e" env=ORIGIN_ALLOWED
+  Header always set Vary "Origin" env=ORIGIN_ALLOWED
+
+  Header always set Access-Control-Allow-Methods "GET,HEAD,OPTIONS"
+  Header always set Access-Control-Allow-Headers "Range"
+  Header always set Access-Control-Expose-Headers "Accept-Ranges, Content-Range, Content-Length"
+
+  # ------------------------------------------------------------
+  # Cache: audio + images + json
+  # (Byt filnamn vid uppdatering, t.ex. charge01.v2.mp3)
+  # ------------------------------------------------------------
+  <FilesMatch "\.(mp3|ogg|wav|m4a|aac|flac)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+
+  <FilesMatch "\.(jpg|jpeg|png|webp|gif|svg)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+
+  # Om du vill: cacha library.json också (byt namn/param när du uppdaterar)
+  <FilesMatch "\.(json)$">
+    Header set Cache-Control "public, max-age=300"
+  </FilesMatch>
+</IfModule>
+
+# ------------------------------------------------------------
+# OPTIONS quick response
+# ------------------------------------------------------------
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  # Pretty URL: /artist/<slug>
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^artist/([^/]+)/?$ /artist/index.php?slug=$1 [L,QSA]
+  RewriteCond %{REQUEST_METHOD} =OPTIONS
+  RewriteRule .* - [R=204,L]
+</IfModule>
+
+# ------------------------------------------------------------
+# MIME types
+# ------------------------------------------------------------
+AddType application/json .json
+
+AddType audio/mpeg .mp3
+AddType audio/ogg  .ogg
+AddType audio/wav  .wav
+AddType audio/mp4  .m4a
+AddType audio/aac  .aac
+AddType audio/flac .flac
+
+AddType image/jpeg .jpg .jpeg
+AddType image/png  .png
+AddType image/webp .webp
+AddType image/gif  .gif
+AddType image/svg+xml .svg
